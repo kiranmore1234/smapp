@@ -1,0 +1,9 @@
+.navbar-nav .nav-link.active{
+    background-color: rgba(24, 21, 21, 0.027);
+    color: rgb(223, 216, 211);
+    text-decoration: underline;
+    border-radius: 10px;
+    box-shadow: 4px 5px 10px red;
+    transition: 1s;
+}
+   

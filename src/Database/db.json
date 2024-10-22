@@ -1,0 +1,53 @@
+{
+  "students": [
+    {
+      "fname": "Rushi",
+      "lname": "Patil",
+      "form": "09/02/1998",
+      "gender": "male",
+      "email": "rushi@gmail.com",
+      "password": "rushi@123",
+      "option": "BSC agriculture",
+      "submit": "Submit",
+      "phone": "8799678756",
+      "id": "73fa"
+    },
+    {
+      "fname": "Kiran",
+      "lname": "More",
+      "dob": "2001-05-05",
+      "gender": "male",
+      "email": "more39262@gmail.com",
+      "password": "More@123",
+      "option": "Software Engineering",
+      "submit": "Submit",
+      "form": "05/05/2001",
+      "phone": "9579610191",
+      "id": "70f6"
+    },
+    {
+      "fname": "Akash",
+      "lname": "More",
+      "form": "10/03/2003",
+      "gender": "male",
+      "email": "amore@gmail.com",
+      "password": "akash@102",
+      "option": "mba",
+      "submit": "Submit",
+      "phone": "9765114166",
+      "id": "a4b9"
+    },
+    {
+      "fname": "Aditya",
+      "lname": "More",
+      "form": "10/04/2005",
+      "gender": "male",
+      "email": "more@gmail.com",
+      "password": "more@111",
+      "option": "pharmacy",
+      "submit": "Submit",
+      "phone": "9172771863",
+      "id": "1aa3"
+    }
+  ]
+}
